@@ -5,7 +5,7 @@ import {
   useMultiChatLogic,
 } from "react-chat-engine-advanced";
 function Chat() {
-  return <div>Chat</div>;
+  return <div>Main Chat Engine</div>;
 }
 
 export default Chat;
